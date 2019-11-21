@@ -63,9 +63,10 @@ void main()
 ----
 
 
-## 2 Program to Bubble Short
+## 2 Program to Bubble Sort
 
-``` c#include<stdio.h>
+``` C
+#include<stdio.h>
 int main()
 {
         int i,n,k,temp;
@@ -117,7 +118,8 @@ int main()
 ```
 ## 4 Program to Armstrong
 
-```#include<stdio.h>
+```C
+#include<stdio.h>
 int main()
 {
         int sum=0,digit;
@@ -138,7 +140,8 @@ int main()
 }
 ```
 ### 5 Program to Calculator
-```#include <stdio.h>
+```C
+#include <stdio.h>
 int main()
 {
 puts("__________________");
@@ -240,7 +243,7 @@ int main()
 
 ```
 ### 10 Program to Week Days
-```
+```C
 #include <stdio.h>
  int main()
  {
@@ -393,7 +396,7 @@ return 0;
 }
 ```
 ### 16 Program to Transpose of matrix
-```
+```C
 #include <stdio.h>
 
 int main()
@@ -480,7 +483,7 @@ return 0;
 }
 ```
 ### 19 Program to Call By Reference
-```
+```C
 
 #include <stdio.h>
 
